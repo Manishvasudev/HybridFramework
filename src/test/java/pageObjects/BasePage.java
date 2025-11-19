@@ -10,3 +10,5 @@ public class BasePage {
 		PageFactory.initElements(driver, this);
 	}
 }
+
+// https://github.com/Manishvasudev/HybridFramework.git
