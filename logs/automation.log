@@ -1,0 +1,50 @@
+18:49:32.532 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:14)oggger - ****** Starting TC001_RegistrationPage ******
+18:49:32.610 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:20)oggger - Clicking on Profile and Register links.. 
+18:49:33.883 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:25)oggger - Providing customer details.. 
+18:49:37.030 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:37)oggger - Validating Success Message.. 
+18:49:37.042 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:46)oggger - ****** Finished TC001_RegistrationPage ******
+21:04:55.600 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:14)oggger - ****** Starting TC001_RegistrationPage ******
+21:04:55.625 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:20)oggger - Clicking on Profile and Register links.. 
+21:04:56.301 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:25)oggger - Providing customer details.. 
+21:04:57.629 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:37)oggger - Validating Success Message.. 
+21:04:57.631 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:46)oggger - ****** Finished TC001_RegistrationPage ******
+21:43:29.862 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:14)oggger - ****** Starting TC001_RegistrationPage ******
+21:43:29.886 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:20)oggger - Clicking on Profile and Register links.. 
+21:43:33.914 [main] ERROR testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:51)oggger - Error logs..
+21:43:33.914 [main] DEBUG testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:52)oggger - Debug logs..
+20:23:13.827 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:19)oggger - ****** Starting TC001_RegistrationPage ******
+20:23:13.990 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:25)oggger - Clicking on Profile and Register links.. 
+20:23:14.713 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:30)oggger - Providing customer details.. 
+20:23:15.979 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:43)oggger - Validating Success Message.. 
+20:23:15.980 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:51)oggger - Validating Success Message.. 
+20:23:15.981 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:60)oggger - ****** Finished TC001_RegistrationPage ******
+21:19:36.974 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:15)oggger - ***** Starting Login Test *****
+21:19:37.377 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:20)oggger - ***** Entering to Login Page *****
+21:19:37.380 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:22)oggger - ***** Entering user details in Login Page *****
+21:19:37.562 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:26)oggger - ***** Entering to Account Page *****
+20:48:55.587 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:15)oggger - ***** Starting Login Test *****
+20:48:57.308 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:20)oggger - ***** Entering to Login Page *****
+20:48:57.369 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:22)oggger - ***** Entering user details in Login Page *****
+20:48:57.615 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:26)oggger - ***** Entering to Account Page *****
+20:49:17.196 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:19)oggger - ****** Starting TC001_RegistrationPage ******
+20:49:17.247 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:25)oggger - Clicking on Profile and Register links.. 
+20:49:18.254 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:30)oggger - Providing customer details.. 
+20:49:19.568 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:43)oggger - Validating Success Message.. 
+20:49:19.570 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:51)oggger - Validating Success Message.. 
+20:49:19.570 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:60)oggger - ****** Finished TC001_RegistrationPage ******
+20:58:38.016 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:19)oggger - ****** Starting TC001_RegistrationPage ******
+20:58:38.040 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:25)oggger - Clicking on Profile and Register links.. 
+20:58:39.042 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:30)oggger - Providing customer details.. 
+20:58:40.261 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:43)oggger - Validating Success Message.. 
+20:58:40.263 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:51)oggger - Validating Success Message.. 
+20:58:40.263 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:60)oggger - ****** Finished TC001_RegistrationPage ******
+21:33:54.432 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:15)oggger - ***** Starting Login Test *****
+21:33:55.164 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:20)oggger - ***** Entering to Login Page *****
+21:33:55.189 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:22)oggger - ***** Entering user details in Login Page *****
+21:33:56.305 [main] INFO  testCases.TC002_LoginPage.loginTest(TC002_LoginPage.java:26)oggger - ***** Entering to Account Page *****
+22:36:31.686 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:19)oggger - ****** Starting TC001_RegistrationPage ******
+22:36:31.708 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:25)oggger - Clicking on Profile and Register links.. 
+22:36:32.637 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:30)oggger - Providing customer details.. 
+22:36:33.888 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:43)oggger - Validating Success Message.. 
+22:36:33.889 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:51)oggger - Validating Success Message.. 
+22:36:33.890 [main] INFO  testCases.TC001_RegistrationPage.registrationPage(TC001_RegistrationPage.java:60)oggger - ****** Finished TC001_RegistrationPage ******
